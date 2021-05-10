@@ -2,7 +2,7 @@
 	"name": "portfolio-app",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/keyvan1996/mydeetz",
+	"homepage": "https://keyvan1996.github.io/mydeetz",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
