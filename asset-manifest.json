@@ -1,13 +1,13 @@
 {
-  "main.css": "/me/static/css/main.53bc0172.chunk.css",
-  "main.js": "/me/static/js/main.b72bc2d0.chunk.js",
-  "main.js.map": "/me/static/js/main.b72bc2d0.chunk.js.map",
-  "runtime~main.js": "/me/static/js/runtime~main.1caf0789.js",
-  "runtime~main.js.map": "/me/static/js/runtime~main.1caf0789.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/me/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/me/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/me/index.html",
-  "precache-manifest.3ac22b6521ec3ff60e821f11f2d008ad.js": "/me/precache-manifest.3ac22b6521ec3ff60e821f11f2d008ad.js",
-  "service-worker.js": "/me/service-worker.js",
-  "static/css/main.53bc0172.chunk.css.map": "/me/static/css/main.53bc0172.chunk.css.map"
+  "main.css": "/mydeetz/static/css/main.53bc0172.chunk.css",
+  "main.js": "/mydeetz/static/js/main.b5b6b2d5.chunk.js",
+  "main.js.map": "/mydeetz/static/js/main.b5b6b2d5.chunk.js.map",
+  "runtime~main.js": "/mydeetz/static/js/runtime~main.fe06a49a.js",
+  "runtime~main.js.map": "/mydeetz/static/js/runtime~main.fe06a49a.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/mydeetz/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/mydeetz/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/mydeetz/index.html",
+  "precache-manifest.f65a85886dc10e5deafff4ade2902e27.js": "/mydeetz/precache-manifest.f65a85886dc10e5deafff4ade2902e27.js",
+  "service-worker.js": "/mydeetz/service-worker.js",
+  "static/css/main.53bc0172.chunk.css.map": "/mydeetz/static/css/main.53bc0172.chunk.css.map"
 }
