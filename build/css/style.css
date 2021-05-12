@@ -23,11 +23,6 @@ body {
   line-height: 1.8;
   color: rgba(0, 0, 0, 0.7);
 }
-
-.mine {
-  position: relative;
-  bottom: -100px;
-}
 @media screen and (max-width: 992px) {
   body {
     font-size: 16px;
