@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c1827225eddc92684ccb",
+    "revision": "2f7506e29ac8ecce6456",
     "url": "/mydeetz/static/css/main.53bc0172.chunk.css"
   },
   {
-    "revision": "c1827225eddc92684ccb",
-    "url": "/mydeetz/static/js/main.c1827225.chunk.js"
+    "revision": "2f7506e29ac8ecce6456",
+    "url": "/mydeetz/static/js/main.2f7506e2.chunk.js"
   },
   {
     "revision": "fe06a49a7dd99562f362",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/mydeetz/static/js/2.713fac1b.chunk.js"
   },
   {
-    "revision": "44d52aecb814a79097ba18c068f589c6",
+    "revision": "e2fce898fd087a0d353ff1268a2ad83d",
     "url": "/mydeetz/index.html"
   }
 ];
